@@ -1,0 +1,16 @@
+[
+{
+  "modid": "stylishblocks",
+  "name": "Stylish Blocks",
+  "description": "Adds some pretty stylish blocks into the game!",
+  "version": "1.0",
+  "mcversion": "1.8",
+  "url": "http://minegrade.weebly.com/",
+  "updateUrl": "",
+  "authorList": ["Waves"],
+  "credits": "Thank you MrCrayfish for the Modding tutorials!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
